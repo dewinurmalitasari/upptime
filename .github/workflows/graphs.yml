@@ -13,8 +13,6 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-# Comment
-
 
 name: Graphs CI
 on:
